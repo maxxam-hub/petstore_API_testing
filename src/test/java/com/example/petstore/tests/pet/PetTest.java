@@ -34,6 +34,6 @@ public class PetTest extends TestConfig {
         // AND THEN
         getResponse.then()
                 .statusCode(200)
-                .body("id", equalTo((int) pet.id));
+                .body("id", equalTo((long) pet.id));
     }
 }

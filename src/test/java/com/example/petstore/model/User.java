@@ -10,7 +10,7 @@ public class User {
     public String phone;
     public int userStatus;
 
-    public User(long id, String userName, String firstName, String lastName,
+    public User(long id, String username, String firstName, String lastName,
         String email, String password, String phone, int userStatus) {
         this.id = id;
         this.username = username;
