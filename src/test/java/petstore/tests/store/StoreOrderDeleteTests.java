@@ -1,13 +1,13 @@
-package com.example.petstore.tests.store;
+package petstore.tests.store;
 
 import org.junit.jupiter.api.Test;
 
-import com.example.petstore.client.PetClient;
-import com.example.petstore.client.StoreClient;
-import com.example.petstore.config.TestConfig;
-import com.example.petstore.data.OrderTestData;
-import com.example.petstore.data.PetTestData;
-import com.example.petstore.model.Order;
+import petstore.client.PetClient;
+import petstore.client.StoreClient;
+import petstore.config.TestConfig;
+import petstore.data.OrderTestData;
+import petstore.data.PetTestData;
+import petstore.model.Order;
 
 public class StoreOrderDeleteTests extends TestConfig {
 

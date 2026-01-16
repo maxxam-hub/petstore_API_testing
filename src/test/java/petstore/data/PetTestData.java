@@ -1,10 +1,10 @@
-package com.example.petstore.data;
+package petstore.data;
 
 import java.util.List;
 
-import com.example.petstore.model.Category;
-import com.example.petstore.model.Pet;
-import com.example.petstore.model.Tag;
+import petstore.model.Category;
+import petstore.model.Pet;
+import petstore.model.Tag;
 
 public class PetTestData {
 

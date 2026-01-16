@@ -1,9 +1,9 @@
-package com.example.petstore.data;
+package petstore.data;
 
 import java.util.List;
 import java.util.UUID;
 
-import com.example.petstore.model.User;
+import petstore.model.User;
 
 public class UserTestData {
 

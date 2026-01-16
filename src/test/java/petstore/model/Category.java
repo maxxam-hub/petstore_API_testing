@@ -1,4 +1,4 @@
-package com.example.petstore.model;
+package petstore.model;
 
 public class Category {
     public long id;

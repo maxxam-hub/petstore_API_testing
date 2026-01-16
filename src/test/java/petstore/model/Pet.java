@@ -1,4 +1,4 @@
-package com.example.petstore.model;
+package petstore.model;
 import java.util.List;
 
 public class Pet {

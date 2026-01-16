@@ -1,11 +1,11 @@
-package com.example.petstore.tests.store;
+package petstore.tests.store;
 
 import static org.hamcrest.Matchers.aMapWithSize;
 import static org.hamcrest.Matchers.greaterThan;
 import org.junit.jupiter.api.Test;
 
-import com.example.petstore.client.StoreClient;
-import com.example.petstore.config.TestConfig;
+import petstore.client.StoreClient;
+import petstore.config.TestConfig;
 
 public class StoreInventoryTests extends TestConfig {
 

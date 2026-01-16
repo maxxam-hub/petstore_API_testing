@@ -1,9 +1,9 @@
-package com.example.petstore.data;
+package petstore.data;
 
 import java.time.Instant;
 
-import com.example.petstore.config.TestConfig;
-import com.example.petstore.model.Order;
+import petstore.config.TestConfig;
+import petstore.model.Order;
 
 public class OrderTestData extends TestConfig {
 

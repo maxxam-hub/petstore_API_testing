@@ -1,9 +1,9 @@
-package com.example.petstore.client;
+package petstore.client;
 
 import java.io.File;
 import java.util.List;
 
-import com.example.petstore.model.Pet;
+import petstore.model.Pet;
 
 import static io.restassured.RestAssured.given;
 import io.restassured.http.ContentType;

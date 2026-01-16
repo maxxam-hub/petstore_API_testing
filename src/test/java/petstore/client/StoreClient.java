@@ -1,6 +1,6 @@
-package com.example.petstore.client;
+package petstore.client;
 
-import com.example.petstore.model.Order;
+import petstore.model.Order;
 
 import static io.restassured.RestAssured.given;
 import io.restassured.response.Response;

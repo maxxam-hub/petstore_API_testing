@@ -25,5 +25,4 @@ src/test/java/com/example/petstore
 
 ## Инструкция по запуску
 
-Запуск всех тестов: mvn clean test
-Запуск тестов по категориям: mvn test -Dtest=*e2e*
+Запуск всех тестов проиходит в папке petstore-api-tests: mvn clean test

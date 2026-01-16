@@ -1,4 +1,4 @@
-package com.example.petstore.tests.pet;
+package petstore.tests.pet;
 
 import java.io.File;
 
@@ -8,10 +8,10 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
-import com.example.petstore.client.PetClient;
-import com.example.petstore.config.TestConfig;
-import com.example.petstore.data.PetTestData;
-import com.example.petstore.model.Pet;
+import petstore.client.PetClient;
+import petstore.config.TestConfig;
+import petstore.data.PetTestData;
+import petstore.model.Pet;
 
 public class PetCreateTests extends TestConfig {
 

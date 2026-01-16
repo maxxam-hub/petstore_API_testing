@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.petstore.tests.e2e.Tests
--------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 142.1 s -- in com.example.petstore.tests.e2e.Tests

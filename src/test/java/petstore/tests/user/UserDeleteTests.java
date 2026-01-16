@@ -1,11 +1,11 @@
-package com.example.petstore.tests.user;
+package petstore.tests.user;
 
 import org.junit.jupiter.api.Test;
 
-import com.example.petstore.client.UserClient;
-import com.example.petstore.config.TestConfig;
-import com.example.petstore.data.UserTestData;
-import com.example.petstore.model.User;
+import petstore.client.UserClient;
+import petstore.config.TestConfig;
+import petstore.data.UserTestData;
+import petstore.model.User;
 
 public class UserDeleteTests extends TestConfig {
 

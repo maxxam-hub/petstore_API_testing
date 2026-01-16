@@ -1,4 +1,4 @@
-package com.example.petstore.tests.e2e;
+package petstore.tests.e2e;
 
 import java.io.File;
 
@@ -7,16 +7,16 @@ import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import org.junit.jupiter.api.Test;
 
-import com.example.petstore.client.PetClient;
-import com.example.petstore.client.StoreClient;
-import com.example.petstore.client.UserClient;
-import com.example.petstore.config.TestConfig;
-import com.example.petstore.data.OrderTestData;
-import com.example.petstore.data.PetTestData;
-import com.example.petstore.data.UserTestData;
-import com.example.petstore.model.Order;
-import com.example.petstore.model.Pet;
-import com.example.petstore.model.User;
+import petstore.client.PetClient;
+import petstore.client.StoreClient;
+import petstore.client.UserClient;
+import petstore.config.TestConfig;
+import petstore.data.OrderTestData;
+import petstore.data.PetTestData;
+import petstore.data.UserTestData;
+import petstore.model.Order;
+import petstore.model.Pet;
+import petstore.model.User;
 
 public class Tests extends TestConfig {
 

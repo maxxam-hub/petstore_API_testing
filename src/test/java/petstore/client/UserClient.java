@@ -1,8 +1,8 @@
-package com.example.petstore.client;
+package petstore.client;
 
 import java.util.List;
 
-import com.example.petstore.model.User;
+import petstore.model.User;
 
 import static io.restassured.RestAssured.given;
 import io.restassured.http.ContentType;

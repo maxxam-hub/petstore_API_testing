@@ -1,14 +1,14 @@
-package com.example.petstore.tests.pet;
+package petstore.tests.pet;
 
 import java.util.List;
 
 import static org.hamcrest.Matchers.equalTo;
 import org.junit.jupiter.api.Test;
 
-import com.example.petstore.client.PetClient;
-import com.example.petstore.config.TestConfig;
-import com.example.petstore.data.PetTestData;
-import com.example.petstore.model.Pet;
+import petstore.client.PetClient;
+import petstore.config.TestConfig;
+import petstore.data.PetTestData;
+import petstore.model.Pet;
 
 import io.restassured.response.Response;
 
