@@ -11,7 +11,7 @@ Java 17, Maven 3.9, JUnit 5, RestAssured, Hamcrest
 
 ## Структура проекта
 
-src/test/java/com/example/petstore
+src/test/java/com/example/petstore\n
 |-- client // API-клиенты (PetClient, UserClient, StoreClient)
 |-- config // Общая конфигурация (baseURI, auth)
 |-- data // Фабрики тестовых данных
