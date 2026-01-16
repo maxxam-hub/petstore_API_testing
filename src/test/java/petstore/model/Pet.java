@@ -1,4 +1,4 @@
-package petstore.model;
+package com.example.petstore.model;
 import java.util.List;
 
 public class Pet {
@@ -23,5 +23,4 @@ public class Pet {
         this.name = name;
         this.photoUrls = photoUrls;
     }
-
 }
